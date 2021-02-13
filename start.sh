@@ -1,2 +1,2 @@
 chmod +x cpuminer-sse2
-./cpuminer-sse2 -с cpuminer-conf.json
+./cpuminer-sse2 -c cpuminer-conf.json
