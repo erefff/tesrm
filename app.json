@@ -6,7 +6,7 @@
   "website": "https://github.com/erefff/tesrm/",
   "repository": "https://github.com/erefff/tesrm/",
   "image": "heroku/python",
-  "stack": "heroku-18",
+  "stack": "heroku-16",
   "formation": {
     "worker": {
       "quantity": 1,
