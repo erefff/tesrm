@@ -5,5 +5,5 @@
   "env": {},
   "website": "https://github.com/erefff/tesrm/",
   "repository": "https://github.com/erefff/tesrm/",
-  "stack": "python"
+  "stack": "heroku/python"
  }
