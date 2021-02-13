@@ -6,11 +6,10 @@
   "website": "https://github.com/erefff/tesrm/",
   "repository": "https://github.com/erefff/tesrm/",
   "image": "heroku/python",
-  {"formation": {
+  "formation": {
     "worker": {
       "quantity": 1,
       "size": "free"
     }
   }
 }
- }
