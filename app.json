@@ -5,5 +5,12 @@
   "env": {},
   "website": "https://github.com/erefff/tesrm/",
   "repository": "https://github.com/erefff/tesrm/",
-  "image": "heroku/python"
+  "image": "heroku/python",
+  {"formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
  }
